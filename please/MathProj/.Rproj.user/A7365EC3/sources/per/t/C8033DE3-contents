@@ -1,0 +1,16 @@
+name: "MathProj"
+title: "My Website"
+description: |
+  My Website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Data Story"
+      href: about.html
+    - text: "Infographic"
+      href: info1.html
+    - text: "Course Visualizations"
+      href: past.html
+output: distill::distill_article

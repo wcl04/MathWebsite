@@ -1,0 +1,9 @@
+---
+title: "Data Story Infographic"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](new.png)

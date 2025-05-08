@@ -1,0 +1,20 @@
+---
+title: "William Lindquist"
+image: "Will.jpeg"
+color1: "#FFC125"
+color2: "#BFEFFF"
+angle: 130
+links:
+  - label: Email
+    url: "willlindquist99@gmail.com"
+  - label: Linkedin
+    url: "www.linkedin.com/in/william-lindquist-591144345"
+output:
+  postcards::onofre
+site: distill::distill_website
+---
+
+Hello, I'm William Lindquist and welcome to my personal data visualization website! This website details and compiles some of the projects I have worked on throughout my college career. Please take a bit to look around and see what I've gotten into so far.
+
+Thanks!
+
